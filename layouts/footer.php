@@ -1,0 +1,1 @@
+<?php include_once $_SERVER['DOCUMENT_ROOT']."/layouts/footer.view.php";
